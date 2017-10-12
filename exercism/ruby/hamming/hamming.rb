@@ -14,3 +14,8 @@ class Hamming
     difference
   end
 end
+
+# Nie mam pojecia co to jest -_-
+module BookKeeping
+  VERSION = 3
+end
